@@ -9,4 +9,5 @@ Feel free to explore my solutions, track my progress, and contribute to discussi
 - [Codeforces](https://codeforces.com/profile/abubinfahd_)
 - [VJudge](https://vjudge.net/user/abubinfahd_)
 - [BeeCrowd](https://judge.beecrowd.com/profile/1125876)
+- [CodeChef](https://www.codechef.com/users/abubinfahd)
 
