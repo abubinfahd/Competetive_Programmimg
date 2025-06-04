@@ -1,1 +1,3 @@
-
+# Data type
+# Variables
+# Operators
